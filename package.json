@@ -1,0 +1,12 @@
+﻿{
+  \"name\": \"video-processing-editing\",
+  \"version\": \"1.0.0\",
+  \"description\": \"Video processing and editing skill for OpenClaw\",
+  \"main\": \"index.js\",
+  \"scripts\": {
+    \"test\": \"echo \"Error: no test specified\" && exit 1\"
+  },
+  \"keywords\": [\"openclaw\", \"skill\", \"video\", \"editing\", \"processing\"],
+  \"author\": \"695610870-Lyj\",
+  \"license\": \"MIT\"
+}
